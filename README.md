@@ -3,3 +3,7 @@ Baixe a api
 ative seu ambiente virtual
 digite pip install -r requirements.txt
 faça request do url http://127.0.0.1:5000/crimes
+
+______________________________________________________________________________________
+Possui documentação no postman
+[https://speeding-desert-250213.postman.co/workspace/My-Workspace~f254706c-7b94-490b-88e7-7994c776c75f/request/38514902-78c2cc0a-9461-49d1-8553-2f7b523bc8ba?ctx=code](https://speeding-desert-250213.postman.co/workspace/f254706c-7b94-490b-88e7-7994c776c75f?action=share&source=email&creator=38514902)
